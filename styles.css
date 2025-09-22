@@ -1,0 +1,34 @@
+h1{
+    color:blue;
+    font-weight: 100;
+}
+h2{
+    color:red;
+}
+a {
+    color: black;
+    font-weight: 100;
+}
+.thisclass{
+    font-size: x-large;
+    color: purple;
+}
+.funfact {
+    width: 1%;
+    color:tomato;
+    text-decoration: line-through;
+    background-color: aqua;
+
+}
+#fact1 {
+    width: 1%;
+    color:rgb(17, 17, 196);
+    text-decoration: line-through;
+    background-color: aqua;
+}
+#special {
+    font-style: oblique;
+}
+#special2 {
+    font-style: italic;
+}
