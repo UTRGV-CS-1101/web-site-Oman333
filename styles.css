@@ -1,24 +1,75 @@
 h1{
-    color:blue;
-    font-weight: 100;
+    color:rgb(221, 160, 89);
+
+    margin-left: 20% ;
 }
+
+.link {
+    width: 10px;
+    height: 20px;
+    background-size: fill;
+    background-repeat: no-repeat;
+    background-image: url(../web-site-Oman333/image/S_link_2.png);
+    margin: 0%;
+}
+.links {
+    width: 10px;
+    height: 20px;
+    background-size: fill;
+    background-repeat: no-repeat;
+    background-image: url(../web-site-Oman333/image/S_link_3.png);
+    margin: 0%;
+}
+
+.tree  {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+body { 
+    width: 700px;
+    height: 900px;
+    background-image: url(../web-site-Oman333/image/S_img.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.body_s { 
+    width: 700px;
+    height: 900px;
+    background-image: url(../web-site-Oman333/image/S_img.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
 h2{
-    color:red;
+    color:rgb(221, 160, 89);
+    margin-left: 20% ;
+}
+.bar {
+    width: 650px;
+    height: 2px;
+    color: rgb(221, 160, 89);
+    margin-left: 20% ;
+    background-color: rgb(50,133,48);
+    outline-color: rgb(50,133,48);
 }
 a {
     color: black;
     font-weight: 100;
+    margin-left: 20% ;
 }
 .thisclass{
     font-size: x-large;
     color: purple;
-}
-.funfact {
+    margin-left: 20% ;
+}.funfact {
     width: 1%;
     color:tomato;
     text-decoration: line-through;
     background-color: aqua;
-
+    margin-left: 20% ;
 }
 #fact1 {
     width: 1%;
@@ -28,7 +79,24 @@ a {
 }
 #special {
     font-style: oblique;
+    margin-left: 20% ;
 }
 #special2 {
     font-style: italic;
+    margin-left: 20% ;
+}
+p {
+    color: rgb(255,182,22);
+    margin-left: 20% ;
+}
+h3 {
+    margin-left: 20% ;
+}
+h4 {
+    margin-left: 20% ;
+    color: rgb(255,182,22);
+}
+h5 {
+    margin-left: 20% ;
+     color:rgb(221, 160, 89);
 }
